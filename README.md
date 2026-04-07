@@ -102,4 +102,4 @@ http://localhost:8080/h2-console
 ### ▶️ Run the Application
 
 ```bash
-mvn spring-boot:run     or to write access h2 and authentication flow details also in readme files 
+mvn spring-boot:run
