@@ -1,4 +1,4 @@
-this is enough na - # 💰 Finance Dashboard Backend API
+ # 💰 Finance Dashboard Backend API
 
 A secure and scalable RESTful API built with **Spring Boot 3** for managing personal finances.  
 This application enables users to track income and expenses with **JWT-based authentication** and **role-based access control (RBAC)**.
